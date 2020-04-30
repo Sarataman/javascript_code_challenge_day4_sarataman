@@ -1,0 +1,30 @@
+{
+  "name": "code-challenge-javascript-day-4",
+  "version": "1.0.0",
+  "description": "facebook devc benin challenge day 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-4.git"
+  },
+  "keywords": [
+    "facebook",
+    "devc",
+    "benin",
+    "javascript",
+    "code",
+    "challenge"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-4/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-4#readme",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
